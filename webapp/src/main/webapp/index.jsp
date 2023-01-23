@@ -32,7 +32,7 @@ i<form action="action_page.php">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning sana </h1>
+   <h1> Thankyou, Happy Learning sana nallu </h1>
 
   
 </form>
